@@ -8,7 +8,7 @@ El profesor ha especificado:
 ## Horario
 Nuestro horario de clases es el siguiente:
 |  Lunes  |  Martes  |  Miércoles  |  Jueves  | Viernes |
-|--|--|--|--|--|
+|:--:|:--:|:--:|:--:|:--:|
 | ETS | PRO | BAE | LND | LND |
 | IKL | PRO | IKL | LND | PRO |
 | LND | BAE | BAE | SSF | BAE |
