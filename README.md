@@ -30,7 +30,8 @@ Nuestro horario de clases es el siguiente:
  - DJK: Digitalización aplicada a los sectores productivos (GS)
 
 ## Conclusión:
+```
 Usaré esta cuenta de GitHub para subir mis proyectos de clase y ¿quién sabe?, quizás acabe subiendo otras cosas...
-```
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
-```
+````
+
+<img src="https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large" alt="JuveR" width="300px">
