@@ -17,7 +17,7 @@ Nuestro horario de clases es el siguiente:
 | SSF | ITK | PRO | PRO | SSF | | |
 | SSF | SSF | DJK | DJK | ITK | | |
 
- 
+ Este horario es ~maravilloso~
 
 ### Leyenda:
  - ETS: Entornos de desarrollo
